@@ -1,0 +1,35 @@
+<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="6.jpeg" width="850" height="600">
+
+  </div> 
+ <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="7.jpeg" width="850" height="600">
+
+  </div>  
+<div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="8.jpeg" width="850" height="600">
+
+  </div> 
+ <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="9.jpeg" width="850" height="600">
+  </div> 
+
+  <div class="mySlides fade">
+    <div class="numbertext"></div>
+    <img src="10.jpeg" width="850" height="600"> 
+  </div>  
+
+
+
+
+
+   <span class="dot" onclick="currentSlide(5)"></span>
+ <span class="dot" onclick="currentSlide(6)"></span>
+ <span class="dot" onclick="currentSlide(7)"></span>
+ <span class="dot" onclick="currentSlide(8)"></span>
+ <span class="dot" onclick="currentSlide(9)"></span>
+ <span class="dot" onclick="currentSlide(10)"></span>
